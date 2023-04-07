@@ -1,4 +1,3 @@
-```markdown
 # Hi there 👋
 
 I'm barbiego43, a passionate developer who loves to create amazing things with code. I enjoy learning new technologies and frameworks, and sharing my knowledge with others. I'm always open to new challenges and opportunities.
@@ -82,4 +81,3 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 
 > I am getting a chance to tell my feelings to you.
 
-```
