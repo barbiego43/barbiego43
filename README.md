@@ -71,7 +71,5 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 
 <br/>
 <p align="center">
-<br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
