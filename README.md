@@ -74,29 +74,29 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
 
-## Sponsors
+## Contacts and Sponsors
 ---
 
 <a href="mailto:barbiego43@proton.me">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+    <img height="32" align="left" alt="Mail" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/protonmail.png" />
 </a>
 
 <a href="https://www.linkedin.com">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/linkedin.png" />
 </a>
 
 <a href="https://paypal.me/barbiego43">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/paypal.png" />
 </a>
 
 <a href="https://www.buymeacoffee.com/barbiego43">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+    <img height="32" align="left" alt="Buy Me a Coffee" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/buymeacoffee.png" />
 </a>
 
 <a href="https://www.instagram.com/barbiego43">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/instagram.png" />
 </a>
 
 <a href="https://dribbble.com/barbiego43">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+    <img height="32" align="left" alt="Dribbble" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/dribbble.png" />
 </a>
