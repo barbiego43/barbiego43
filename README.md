@@ -73,3 +73,30 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 <p align="center">
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
+
+## Sponsors
+---
+
+<a href="mailto:barbiego43@proton.me">
+    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+</a>
+
+<a href="https://www.linkedin.com">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<a href="https://paypal.me/barbiego43">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
+
+<a href="https://www.buymeacoffee.com/barbiego43">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+</a>
+
+<a href="https://www.instagram.com/barbiego43">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+<a href="https://dribbble.com/barbiego43">
+    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+</a>
