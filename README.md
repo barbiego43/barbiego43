@@ -24,13 +24,13 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 
 ## 📫 How to reach me ...
 
-- You can email me at *hide email*
+- You can email me at *hide*
 - You can also follow me on GitHub @barbiego43
 
 ## 😄 Fun facts about me ...
 
 - I love to travel and explore new places
-- I play guitar and piano in my spare time
+- I play piano in my spare time
 - I'm a fan of Disney movies
 
 ## ⚡ My skills ...
@@ -42,8 +42,8 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F-Policy-orange"/>
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </p>
