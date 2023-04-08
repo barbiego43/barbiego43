@@ -31,7 +31,7 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 
 - I love to travel and explore new places
 - I play guitar and piano in my spare time
-- I'm a fan of Harry Potter, Marvel and Disney movies
+- I'm a fan of Disney movies
 
 ## ⚡ My skills ...
 
