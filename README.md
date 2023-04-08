@@ -14,6 +14,7 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 - React Native for cross-platform mobile development
 - Firebase for backend and authentication services
 - GraphQL for efficient data fetching
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 ## 💬 Ask me about ...
 
@@ -69,9 +70,11 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 
 > I am getting a chance to tell my feelings to you.
 
-<br/>
 <p align="center">
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
 ## Contacts and Sponsors
