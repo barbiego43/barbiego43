@@ -103,3 +103,6 @@ I'm barbiego43, a passionate developer who loves to create amazing things with c
 <a href="https://dribbble.com/barbiego43">
     <img height="32" align="left" alt="Dribbble" src="https://raw.githubusercontent.com/cszach/cszach/master/img/icons/dribbble.png" />
 </a>
+<a href="https://facebook.com/barbiego43">
+    <img height="32" align="left" alt="Facebook" src="https://cdn.iconscout.com/icon/free/png-256/facebook-logo-2019-1597680-1350125.png" />
+</a>
